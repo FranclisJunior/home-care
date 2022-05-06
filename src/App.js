@@ -12,7 +12,7 @@ class App extends Component {
                 <Header/>
                 <Container className="main">
                     <Router>
-                        <Route path="/" exact={true} component={ListSuppliersContainer}/>
+                        <Route path="/home-care" exact={true} component={ListSuppliersContainer}/>
                         <Route path="/supplier/:supplierId" component={ViewSupplier}/>
                     </Router>
                 </Container>

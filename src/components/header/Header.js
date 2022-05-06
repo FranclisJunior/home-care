@@ -5,7 +5,7 @@ const Header = () => (
     <nav className="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
         <div className="container">
             <a className="navbar-brand" href="/">
-                <img src="/logo.png"/>
+                <img src={process.env.PUBLIC_URL + "/logo.png"}/>
             </a>
         </div>
     </nav>

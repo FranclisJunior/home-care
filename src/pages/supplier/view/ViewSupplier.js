@@ -85,7 +85,7 @@ export default class ViewSupplier extends Component {
                         <Col md={3} >
                             <Col md={12} className='card-price'>
                                 <h2>R$ 50,00</h2>
-                                <img className='cards' src="/cards.png"/>
+                                <img className='cards' src={process.env.PUBLIC_URL +"/cards.png"}/>
 
                                 {!this.state.showPaymentForm && (
                                     <button className="btn btn-primary btn-block" onClick={event => this.setState({showPaymentForm: true})}>Contratar</button>
