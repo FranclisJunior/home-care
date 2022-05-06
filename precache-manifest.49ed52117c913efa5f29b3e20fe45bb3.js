@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a0d37f6b211b786495d0c447bb25079",
+    "revision": "9cd4585a29b145440b0add930a0d921f",
     "url": "/home-care/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home-care/static/css/2.2729d855.chunk.css"
   },
   {
-    "revision": "2996b591427c787bc2c6",
+    "revision": "008babc6a7638fa54593",
     "url": "/home-care/static/css/main.077b0043.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home-care/static/js/2.baf237f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2996b591427c787bc2c6",
-    "url": "/home-care/static/js/main.662a7ce9.chunk.js"
+    "revision": "008babc6a7638fa54593",
+    "url": "/home-care/static/js/main.5b4f22a8.chunk.js"
   },
   {
     "revision": "1e7e71cf562e546e95eb",
