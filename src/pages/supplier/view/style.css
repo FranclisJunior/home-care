@@ -1,0 +1,60 @@
+h1 {
+    color: black;
+}
+
+p {
+    color: darkgray;
+    text-align: justify;
+}
+
+.tags {
+    margin: 15px 0;
+}
+
+.card-price {
+    text-align: center;
+    border: 1px solid #EFEFEF;
+    height: 100%;
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.card-price .cards {
+    height: 30px;
+}
+
+.maps-frame {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 15px;
+}
+
+.view-supplier-card {
+    background: white;
+    border-radius: 5px;
+    height: 100%;
+    padding: 15px;
+}
+
+.view-supplier .img-fluid {
+    max-width: 300px;
+    max-height: 300px;
+    height: 300px;
+    border: 1px ;
+}
+
+.btn-primary, .btn-outline-primary {
+    margin: 10px 0;
+}
+
+.form-label {
+    color: #1F2E5D;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+.form-group {
+    text-align: left;
+    margin-bottom: 6px;
+}

@@ -1,0 +1,80 @@
+.img-fluid {
+    height: 100px;
+}
+
+.supplier {
+    margin-bottom: 15px;
+}
+
+.supplier-info {
+    max-height: 100px
+}
+
+.supplier-info p {
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card {
+    padding: 15px;
+    background: #efefef;
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.card:hover {
+    box-shadow: 0 10px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.supplier a:hover {
+    text-decoration: none !important;
+    background: darkgray;
+}
+
+.card-title {
+    color: black;
+    margin: 0;
+    overflow-wrap: break-word;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 19px;
+}
+
+.card-body {
+    margin-top: 15px;
+    padding: 0 !important
+}
+
+.card:hover .card-overflow {
+    text-decoration: none;
+    display: block;
+}
+
+.card-overflow {
+    display: none;
+    position: absolute;
+    background-color: rgba(0,0,0,.7);
+    opacity: 1;
+    cursor: pointer;
+    font-size: 16px;
+    height: 100%;
+    width: 100%;
+    bottom: 0;
+}
+
+.card-overflow h4 {
+    color: white;
+    margin: 50% auto;
+    text-align: center;
+}
+
+.price {
+    text-align: right;
+    color: #1F2E5D;
+}
+
+.badge {
+    margin-right: 5px;
+}
