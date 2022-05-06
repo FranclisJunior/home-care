@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.077b0043.chunk.css",
-    "main.js": "/static/js/main.af185588.chunk.js",
-    "main.js.map": "/static/js/main.af185588.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e7f050b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e7f050b7.js.map",
-    "static/css/2.2729d855.chunk.css": "/static/css/2.2729d855.chunk.css",
-    "static/js/2.2f0fa5c2.chunk.js": "/static/js/2.2f0fa5c2.chunk.js",
-    "static/js/2.2f0fa5c2.chunk.js.map": "/static/js/2.2f0fa5c2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c8f1958074325254f467596fce012f50.js": "/precache-manifest.c8f1958074325254f467596fce012f50.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2729d855.chunk.css.map": "/static/css/2.2729d855.chunk.css.map",
-    "static/css/main.077b0043.chunk.css.map": "/static/css/main.077b0043.chunk.css.map",
-    "static/js/2.2f0fa5c2.chunk.js.LICENSE.txt": "/static/js/2.2f0fa5c2.chunk.js.LICENSE.txt"
+    "main.css": "/home-care/static/css/main.077b0043.chunk.css",
+    "main.js": "/home-care/static/js/main.af185588.chunk.js",
+    "main.js.map": "/home-care/static/js/main.af185588.chunk.js.map",
+    "runtime-main.js": "/home-care/static/js/runtime-main.b94981e7.js",
+    "runtime-main.js.map": "/home-care/static/js/runtime-main.b94981e7.js.map",
+    "static/css/2.2729d855.chunk.css": "/home-care/static/css/2.2729d855.chunk.css",
+    "static/js/2.baf237f5.chunk.js": "/home-care/static/js/2.baf237f5.chunk.js",
+    "static/js/2.baf237f5.chunk.js.map": "/home-care/static/js/2.baf237f5.chunk.js.map",
+    "index.html": "/home-care/index.html",
+    "precache-manifest.ea5ee95c50ab0f7f46c3e92ce357aac7.js": "/home-care/precache-manifest.ea5ee95c50ab0f7f46c3e92ce357aac7.js",
+    "service-worker.js": "/home-care/service-worker.js",
+    "static/css/2.2729d855.chunk.css.map": "/home-care/static/css/2.2729d855.chunk.css.map",
+    "static/css/main.077b0043.chunk.css.map": "/home-care/static/css/main.077b0043.chunk.css.map",
+    "static/js/2.baf237f5.chunk.js.LICENSE.txt": "/home-care/static/js/2.baf237f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7f050b7.js",
+    "static/js/runtime-main.b94981e7.js",
     "static/css/2.2729d855.chunk.css",
-    "static/js/2.2f0fa5c2.chunk.js",
+    "static/js/2.baf237f5.chunk.js",
     "static/css/main.077b0043.chunk.css",
     "static/js/main.af185588.chunk.js"
   ]
